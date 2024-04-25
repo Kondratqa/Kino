@@ -1,14 +1,4 @@
 Kino TEST
-====
-
-**Kino** is a collection of custom post-processing effects for Unity's
-[High Definition Render Pipeline][HDRP] (HDRP).
-
-[HDRP]:
-    https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@latest
-
-System Requirements
--------------------
 
 - Unity 2019.3
 - HDRP 7.1
