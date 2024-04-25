@@ -1,11 +1,5 @@
 Kino TEST
 
-- Unity 2019.3
-- HDRP 7.1
-
-Effects
--------
-
 ### Streak
 
 ![screenshot](https://i.imgur.com/buCdMYm.gif)
