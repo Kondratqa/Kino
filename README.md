@@ -1,15 +1,5 @@
 Kino TEST
 
-### Streak
-
-![screenshot](https://i.imgur.com/buCdMYm.gif)
-
-**Streak** adds horizontally stretched bloom that roughly resembles anamorphic
-lens flares. Although it's neither physically correct nor energy conserving,
-it's handy to emphasize shininess of the scene in just a few clicks.
-
-### Recolor
-
 ![screenshot](https://i.imgur.com/uWiOrpDm.jpg)
 
 **Recolor** is a kind of [false color] effect that replaces image colors by
