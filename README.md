@@ -1,4 +1,4 @@
-Kino
+Kino TEST
 ====
 
 **Kino** is a collection of custom post-processing effects for Unity's
